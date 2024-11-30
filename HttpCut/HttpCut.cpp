@@ -1,6 +1,6 @@
 #include "HttpCut.h"
 
-namespace phi
+namespace my
 {
 	bool HttpCut(string _in_ name)
 	{

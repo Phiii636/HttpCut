@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include "HttpCut.h"
 
-using namespace phi;
+using namespace my;
 
 int main()
 {

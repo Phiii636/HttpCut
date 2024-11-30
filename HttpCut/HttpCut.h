@@ -12,7 +12,7 @@ using namespace std;
 #define _out_
 #define _typein_
 
-namespace phi
+namespace my
 {
 	bool HttpCut(string _in_ name);
 	bool HttpCut(_typein_);
